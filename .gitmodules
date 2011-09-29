@@ -1,0 +1,3 @@
+[submodule "Exemplos-Moodle---WebService"]
+	path = Exemplos-Moodle---WebService
+	url = git@github.com:FullService/Exemplos-Moodle---WebService.git
